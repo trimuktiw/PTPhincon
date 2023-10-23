@@ -1,0 +1,3 @@
+Frontend menggunakan React JS
+Backend menggunakan Php (CI)
+Database Menggunakan MySQL
